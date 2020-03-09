@@ -1,4 +1,4 @@
-# Capybara, Cucumber com Page Objects com Ruby 
+# Capybara, Cucumber com Page Objects e Ruby 
 
 Site ultilizado para automação: http://automationpractice.com/index.php
 
