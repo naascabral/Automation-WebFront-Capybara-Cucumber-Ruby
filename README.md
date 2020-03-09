@@ -42,4 +42,4 @@ bundle exec cucumber -f pretty -f html -o report.html -p ci
 ```
 ## Qualquer dúvida 
 
-Linkdin: linkedin.com/in/natali-cabral
+Linkdin: https://www.linkedin.com/in/natali-cabral
