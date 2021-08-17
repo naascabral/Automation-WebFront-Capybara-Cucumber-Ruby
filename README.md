@@ -28,12 +28,12 @@ bundle install
 Execute no chrome: 
 
 ```
-cucumber -f pretty -f html -o report.html BROWSER=chrome
+bundle exec cucumber -p chrome
 ```
 Execute no Firefox: 
 
 ```
-cucumber -f pretty -f html -o report.html BROWSER=firefox
+bundle exec cucumber -p firefox
 ```
 Execucão pelo terminal:
 
